@@ -1,2 +1,3 @@
-# kowshikfile
-A simple file for the purpose of step class
+# Hello App
+Simple Java Hello World Application for Learning Git and GitFlow"
+
